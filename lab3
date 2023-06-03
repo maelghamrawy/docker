@@ -1,8 +1,0 @@
-
-
-1. Problem 1:
-    Create bridge network with subnet 192.168.0.0/24.
-    Run 2 containers and attach containers to this network.
-    Create another bridge network with subnet 10.5.0.0/24.
-    Run any container and attach it to the new network.
-    Make sure that the containers at different network can’t ping each other
